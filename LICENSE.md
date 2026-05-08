@@ -1,4 +1,4 @@
-
+Enhance Notion for macOS with exclusive Script for Notion for macOS - markdown support and note encryption, the #1 script. Includes markdown support and note encryption for a
 
 
 
